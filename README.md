@@ -8,7 +8,11 @@ i znowy cos dodalam
 
 ## Purpose
 
+czeci raz cos dodalam
+
 ## Deployment
+
+czwarty raz cos dodalam
 
 ## How To Contribute
 
