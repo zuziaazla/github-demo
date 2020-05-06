@@ -1,5 +1,7 @@
 # Starter Wbe Project
 
+cos tam sobie dodalam
+
 ## Introduction
 
 ## Purpose
