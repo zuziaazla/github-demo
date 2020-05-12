@@ -1,3 +1,4 @@
 tegonie.txt
 *.log
 log/
+*.orig
