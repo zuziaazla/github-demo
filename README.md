@@ -18,3 +18,4 @@ czwarty raz cos dodalam
 
 
 takie tam testy
+git.training2020
