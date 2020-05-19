@@ -4,3 +4,4 @@ nowy plik humans
 
 linia w humans do rebase conflicts (master)
 linia w bigtrouble w humans
+ ato dodalam w github
