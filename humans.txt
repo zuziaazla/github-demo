@@ -1,1 +1,3 @@
 nowy plik humans
+
+linia w humans do rebase conflicts (master)
