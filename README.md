@@ -21,3 +21,4 @@ takie tam testy
 git.training2020
 
 dodana liniejka do testow rebase
+dedana linijka w galazka
