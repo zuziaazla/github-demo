@@ -1,4 +1,4 @@
 nowy plik humans
 
 linia w humans do rebase conflicts (master)
-\linijka w master hmans
+linia w bigtrouble w humans
