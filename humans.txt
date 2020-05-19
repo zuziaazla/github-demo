@@ -1,3 +1,5 @@
+17:54 galazka, humans
+
 nowy plik humans
 
 linia w humans do rebase conflicts (master)
